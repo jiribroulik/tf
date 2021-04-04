@@ -1,0 +1,2 @@
+1) enable http access to the instance
+2) based on documentation build docker image and push it to docker hub

@@ -1,0 +1,1 @@
+create security group, reference its ID using HCL in aws_instance resource definition and concatenate lists using var.Security_Group and the newly created security group
