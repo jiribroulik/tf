@@ -1,0 +1,1 @@
+spin up instance in different availability zone
